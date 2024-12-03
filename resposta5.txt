@@ -1,0 +1,5 @@
+Considere o cenário em que você está trabalhando em um projeto de site com sua dupla. Qual seria sua abordagem inicial para organizar as tarefas, escolher ferramentas e implementar boas práticas de versionamento e desenvolvimento?
+
+1. Organização das tarefas: definir o escopo do projeto, dividir o trabalho em etapas claras, utilizar ferramentas como Trello ou Jira para gerenciamento.
+2. Escolha das ferramentas: utilizar Git para controle de versão, Visual Studio Code para edição de código, selecionar frameworks ou bibliotecas conforme as necessidades.
+3. Implementação de boas práticas: criar o repositório no github e definir uma conveção de commits, fazer commits frequentes e dividir o trabalho em branches.

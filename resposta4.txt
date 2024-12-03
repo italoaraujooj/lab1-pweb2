@@ -1,0 +1,4 @@
+4. Explique o papel do JavaScript no desenvolvimento web moderno. Por que ele é considerado uma linguagem essencial para a criação de sites interativos?
+
+O JavaScript é a linguagem de programação responsável por adicionar interatividade e dinamismo às páginas web. Ele permite que elementos na página respondam a ações do usuário, como cliques, movimentos do mouse ou entrada de dados.
+É considerado essencial porque é executado diretamente no navegador, sem necessidade de instalação adicional, tornando-o universal. Como também, permite o desenvolvimento de funcionalidades dinâmicas, como animações, validação de formulários e carregamento assíncrono de dados. É também base para frameworks e bibliotecas populares, como React, Angular e Vue.js, amplamente usados no desenvolvimento web moderno.

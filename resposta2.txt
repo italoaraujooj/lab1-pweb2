@@ -1,0 +1,10 @@
+2. Cite três ferramentas ou tecnologias amplamente usadas no desenvolvimento web e explique como elas ajudam no processo de criação de aplicações web.
+
+Visual Studio Code (Editor de Texto):
+Um dos editores de texto mais populares para desenvolvimento web. Ele oferece recursos como autocompletar, integração com extensões, depuração e suporte para múltiplas linguagens de programação, facilitando o desenvolvimento e a produtividade.
+
+Git (Controle de Versão):
+Uma ferramenta essencial para rastrear mudanças no código e colaborar com equipes. Git permite que desenvolvedores trabalhem simultaneamente, gerenciem versões do código e revertam alterações quando necessário.
+
+Bootstrap (Framework CSS):
+Um framework de front-end que facilita a criação de interfaces responsivas e atraentes. Ele fornece componentes pré-desenvolvidos, como botões, tabelas e grids, reduzindo o tempo de desenvolvimento de layouts.
